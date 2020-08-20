@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+![Manabu Tsukada's github stats](https://github-readme-stats.vercel.app/api?username=manabu525&count_private=true)
+
+
 <!--
 **manabu525/manabu525** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
